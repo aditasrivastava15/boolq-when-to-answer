@@ -1,0 +1,184 @@
+{
+  "chosen": {
+    "tau": 0.1917413148311182,
+    "accuracy": 0.780952380952381,
+    "coverage": 0.525,
+    "answered": 105,
+    "correct": 82,
+    "retrieval_refusals": 70,
+    "model_refusals": 25,
+    "percentile": 35
+  },
+  "candidates": [
+    {
+      "tau": 0.011857635170090426,
+      "accuracy": 0.7588652482269503,
+      "coverage": 0.705,
+      "answered": 141,
+      "correct": 107,
+      "retrieval_refusals": 20,
+      "model_refusals": 39,
+      "percentile": 10
+    },
+    {
+      "tau": 0.020631753686490756,
+      "accuracy": 0.75,
+      "coverage": 0.68,
+      "answered": 136,
+      "correct": 102,
+      "retrieval_refusals": 30,
+      "model_refusals": 34,
+      "percentile": 15
+    },
+    {
+      "tau": 0.03748829387993149,
+      "accuracy": 0.7401574803149606,
+      "coverage": 0.635,
+      "answered": 127,
+      "correct": 94,
+      "retrieval_refusals": 40,
+      "model_refusals": 33,
+      "percentile": 20
+    },
+    {
+      "tau": 0.07036918703860306,
+      "accuracy": 0.7520661157024794,
+      "coverage": 0.605,
+      "answered": 121,
+      "correct": 91,
+      "retrieval_refusals": 50,
+      "model_refusals": 29,
+      "percentile": 25
+    },
+    {
+      "tau": 0.1293501384335637,
+      "accuracy": 0.7522123893805309,
+      "coverage": 0.565,
+      "answered": 113,
+      "correct": 85,
+      "retrieval_refusals": 60,
+      "model_refusals": 27,
+      "percentile": 30
+    },
+    {
+      "tau": 0.1917413148311182,
+      "accuracy": 0.780952380952381,
+      "coverage": 0.525,
+      "answered": 105,
+      "correct": 82,
+      "retrieval_refusals": 70,
+      "model_refusals": 25,
+      "percentile": 35
+    },
+    {
+      "tau": 0.302420668155664,
+      "accuracy": 0.7755102040816326,
+      "coverage": 0.49,
+      "answered": 98,
+      "correct": 76,
+      "retrieval_refusals": 80,
+      "model_refusals": 22,
+      "percentile": 40
+    },
+    {
+      "tau": 0.44020819281216855,
+      "accuracy": 0.7692307692307693,
+      "coverage": 0.455,
+      "answered": 91,
+      "correct": 70,
+      "retrieval_refusals": 90,
+      "model_refusals": 19,
+      "percentile": 45
+    },
+    {
+      "tau": 0.5726957526938363,
+      "accuracy": 0.7926829268292683,
+      "coverage": 0.41,
+      "answered": 82,
+      "correct": 65,
+      "retrieval_refusals": 100,
+      "model_refusals": 18,
+      "percentile": 50
+    },
+    {
+      "tau": 0.6936369192310395,
+      "accuracy": 0.8108108108108109,
+      "coverage": 0.37,
+      "answered": 74,
+      "correct": 60,
+      "retrieval_refusals": 110,
+      "model_refusals": 16,
+      "percentile": 55
+    },
+    {
+      "tau": 0.7825046427791715,
+      "accuracy": 0.8059701492537313,
+      "coverage": 0.335,
+      "answered": 67,
+      "correct": 54,
+      "retrieval_refusals": 120,
+      "model_refusals": 13,
+      "percentile": 60
+    },
+    {
+      "tau": 0.9240470655484266,
+      "accuracy": 0.8305084745762712,
+      "coverage": 0.295,
+      "answered": 59,
+      "correct": 49,
+      "retrieval_refusals": 130,
+      "model_refusals": 11,
+      "percentile": 65
+    },
+    {
+      "tau": 1.1528846196226603,
+      "accuracy": 0.84,
+      "coverage": 0.25,
+      "answered": 50,
+      "correct": 42,
+      "retrieval_refusals": 140,
+      "model_refusals": 10,
+      "percentile": 70
+    },
+    {
+      "tau": 1.4588575269572044,
+      "accuracy": 0.8809523809523809,
+      "coverage": 0.21,
+      "answered": 42,
+      "correct": 37,
+      "retrieval_refusals": 150,
+      "model_refusals": 8,
+      "percentile": 75
+    },
+    {
+      "tau": 1.732935538715821,
+      "accuracy": 0.9090909090909091,
+      "coverage": 0.165,
+      "answered": 33,
+      "correct": 30,
+      "retrieval_refusals": 160,
+      "model_refusals": 7,
+      "percentile": 80
+    },
+    {
+      "tau": 2.203880183341453,
+      "accuracy": 0.9230769230769231,
+      "coverage": 0.13,
+      "answered": 26,
+      "correct": 24,
+      "retrieval_refusals": 170,
+      "model_refusals": 4,
+      "percentile": 85
+    },
+    {
+      "tau": 3.1278260933162905,
+      "accuracy": 1.0,
+      "coverage": 0.09,
+      "answered": 18,
+      "correct": 18,
+      "retrieval_refusals": 180,
+      "model_refusals": 2,
+      "percentile": 90
+    }
+  ]
+}

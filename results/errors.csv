@@ -1,0 +1,31 @@
+index,question,gold,top_sentence,raw_reply,error_label
+1715,is st george's chapel in westminster abbey,no,"St George's Chapel at Windsor Castle in England, is a chapel designed in the high-medieval Gothic style.",unknown,model_contradicted
+25,can you drink alcohol with your parents in wisconsin,yes,Those age 18 to 20 may also possess (but not consume) alcohol as part of their employment.,unknown,wrong_sentence
+215,was the parkers a spin off of moesha,yes,"The Parkers is an American sitcom that aired on UPN from August 30, 1999, to May 10, 2004.",unknown,wrong_sentence
+3160,is there a monthly fee for google voice,no,Multiple destinations may be specified that ring simultaneously for incoming calls.,unknown,wrong_sentence
+688,does dan stevens sing in beauty and the beast,yes,"``Evermore'' is a song written by composer Alan Menken and lyricist Tim Rice for the musical fantasy film Beauty and the Beast (2017), a live-action remake of Disney's 1991 animated film of the same name.",unknown,wrong_sentence
+2964,can you own a pet skunk in canada,yes,"Although capable of living indoors with humans similarly to cats or dogs, pet skunks are relatively rare, partly due to restrictive laws and the complexity of their care.",unknown,wrong_sentence
+1363,is a jet engine an external combustion engine,no,"In common parlance, the term jet engine loosely refers to an internal combustion airbreathing jet engine.",unknown,model_contradicted
+997,is california state route 73 a toll road,yes,State Route 73 (SR 73) is a state highway in the U.S.,unknown,wrong_sentence
+2003,will there be a second series of riviera,yes,The first season of Riviera was released on 15 June 2017 on Sky Box Sets and NOW TV.,unknown,wrong_sentence
+701,is st maarten and st martin the same,yes,The southern Dutch part comprises Sint Maarten and is one of four constituent countries that form the Kingdom of the Netherlands.,unknown,wrong_sentence
+808,did they find both halves of the titanic,yes,"The wreck of the RMS Titanic lies at a depth of about 12,500 feet (3.8 km; 2.37 mi), about 370 miles (600 km) south-southeast off the coast of Newfoundland.",unknown,wrong_sentence
+218,can ingrown toenails come back after being removed,yes,Surgical treatments of ingrown toenails include a number of different options.,unknown,wrong_sentence
+1181,are there grizzly bears in the united states,yes,"In Canada, there are approximately 25,000 grizzly bears occupying British Columbia, Alberta, the Yukon, the Northwest Territories, Nunavut, and the northern part of Manitoba.",unknown,wrong_sentence
+2213,is there such a thing as dry water,yes,It is also more commonly known among researchers as ``empty water''.,unknown,wrong_sentence
+1330,is the black sea connected to the mediterranean,yes,The Black Sea is also connected to the Sea of Azov by the Strait of Kerch.,no,wrong_sentence
+2428,is dances with wolves supposed to have subtitles,yes,Dances with Wolves had high production values and won seven Academy Awards including Best Picture and the Golden Globe Award for Best Motion Picture -- Drama.,No,wrong_sentence
+2510,do all craftsman tools have a lifetime warranty,yes,Most Craftsman hand tools are advertised as having an unlimited lifetime warranty.,unknown,not_decidable
+3091,can ipad mini 1st generation get ios 10,no,"On June 13, 2016, Apple announced the iOS 10 update - with some major updates to the mobile operating system.",yes,wrong_sentence
+1203,is the eye of agamotto the time stone,yes,"The Eye of Agamotto is the name commonly given to the amulet Strange wears on his chest, though the Eye actually resides within the amulet and is released from time to time.",unknown,wrong_sentence
+2145,can i send something without a return address,yes,"However, lack of a return address prevents the postal service from being able to return the item if it proves undeliverable; such as from damage, postage due, or invalid destination.",unknown,wrong_sentence
+2860,is it hard to breathe at 7000 feet,yes,"There is a limit to the level of adaptation; mountaineers refer to the altitudes above 8,000 metres (26,000 ft) as the ``death zone'', where it is generally believed that no human body can acclimatize.",unknown,wrong_sentence
+3024,is five nights at freddy's 2 a prequel,yes,Five Nights at Freddy's 2 (often abbreviated to FNaF2) is an indie point-and-click survival horror video game created by Scott Cawthon.,unknown,wrong_sentence
+883,is the wizard of oz a disney production,no,The Wizard of Oz is a 1939 American musical fantasy film produced by Metro-Goldwyn-Mayer.,yes,model_contradicted
+1374,is there a republican majority in the senate,yes,"The One Hundred Fifteenth United States Congress is the current meeting of the legislative branch of the United States federal government, composed of the Senate and the House of Representatives.",unknown,wrong_sentence
+1591,are there food sources of gamma linolenic acid,yes,GLA is a carboxylic acid with an 18-carbon chain and three cis double bonds.,unknown,not_decidable
+834,is pokemon let's go a remake of yellow,yes,"Ībui, ``Pocket Monsters: Let's GO Pikachu and Let's GO Eevee) are upcoming role-playing video games (RPGs) developed by Game Freak and published by The Pokémon Company and Nintendo for the Nintendo Switch.",unknown,wrong_sentence
+2639,is a half barrel the same as a keg,yes,"Generally a keg is a vessel smaller than a barrel; thus, it is 30 gallons or smaller.",unknown,wrong_sentence
+2721,does panic at the disco have an opening act,yes,ARIZONA and Hayley Kiyoko were announced as the opening acts.,unknown,model_contradicted
+346,is women's college world series double elimination,yes,The Women's College World Series (WCWS) is the final portion of the NCAA Division I Softball Championship for college softball in the United States.,unknown,wrong_sentence
+349,did the queen have any brothers or sisters,yes,"Crawford published a biography of Elizabeth and Margaret's childhood years entitled The Little Princesses in 1950, much to the dismay of the royal family.",unknown,wrong_sentence

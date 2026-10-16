@@ -1,0 +1,5 @@
+method,accuracy,coverage,answered,correct,retrieval_refusals,model_refusals
+always_yes,0.615,1.0,1000,615,0,0
+full_passage,0.589,1.0,1000,589,0,0
+top_sentence,0.492,1.0,1000,492,0,0
+answer_or_abstain,0.7756286266924565,0.517,517,401,314,169
