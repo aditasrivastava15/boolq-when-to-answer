@@ -49,6 +49,8 @@ Accuracy is correct answers divided by questions the method actually answered. C
 
 ## Results
 
+A plain-language summary is in `RESULTS.md`.
+
 On the 200 development questions, the search chose **τ = 0.191741** (the 35th percentile of BM25 margins). That cutoff is frozen in `results/cutoff.json` before the test set is scored.
 
 Test set, N = 1,000:
@@ -93,6 +95,7 @@ Scripts read these frozen files directly.
 ```text
 boolq-when-to-answer/
 ├── README.md
+├── RESULTS.md
 ├── requirements.txt
 ├── data/
 │   ├── test.jsonl
